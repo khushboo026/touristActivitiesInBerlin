@@ -5,7 +5,6 @@
 - At a minimum, we expect a search feature that lists activities based on user input.
 - You should build at least one API endpoint which your frontend application can use to get data or search results.
 - Based on the provided data, you can add additional features which you think may be useful for travelers.
-- User experience matters. We value the delivered product as much as we value technologies used.
 
 If you'd like to build this step by step, you can follow this guidance:
 - Start by creating the API endpoint
